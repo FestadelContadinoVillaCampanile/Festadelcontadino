@@ -1,0 +1,56 @@
+.riquadro_titolo {
+	color: white;
+	font-size: 35px;
+	text-align: center;
+	background-color: #53e62e;
+	padding: 30px 20px 30px 20px;
+	border-style: solid;
+	border-color: #259443;
+	font-family: 'Potta One', cursive;
+	}
+html {
+	background-color: #fad482;
+	}
+.finestra_di_maps {
+	font-size: 100px;
+	color: white;
+	padding: 10px 20px 50px 40px;
+	height: 800px;
+	background-color: #0b8577;
+	text-align: center;
+	font-family: 'Road Rage', cursive;
+	}
+.Titoli {
+	font-family: 'Road Rage', cursive;
+	font-size: 100px;
+	color: black;
+	text-align: center;
+	}
+p {
+	font-size: 50px;
+	color: black;
+	text-align: center;
+	font-family: 'Lobster', cursive;
+	}
+#descrizione {
+	padding: 0px 35px 0px 35px;
+}
+#dovecitrovi {
+	font-family: 'Road Rage', cursive;
+	font-size: 100px;
+	color: white;
+	}
+#Volantino {
+	text-align: center;
+	}
+#Menù {
+	text-align: center;
+	}
+.info {
+	background-color: #11240b;
+	color: white;
+	font-size: 43px;
+	font-family: 'Righteous', cursive;
+	padding: 5px 0px 30px 0px;
+	}
+	
